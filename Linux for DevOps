@@ -1,1 +1,15 @@
+Linux 
+
+
+- File system hierarchy
+    - / - This is top level directory
+    - /root - It is home directory for root user
+    - /home - It is home directory for other users
+    - /boot - It contains bootable files for Linux
+    - /etc - It contains all configuration files
+    - /usr - by default softwares are installed in this directory
+    - /bin - It contains commands used by all users
+    - /sbin - It contains commands used by only root user (root)
+
+
 
